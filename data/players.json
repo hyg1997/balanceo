@@ -1,0 +1,30 @@
+[
+  {
+    "macro": 10,
+    "pool": 10,
+    "micro": 10,
+    "division": "Gold IV",
+    "name": "FlabbyCoalt"
+  },
+  {
+    "macro": 5,
+    "pool": 8,
+    "micro": 10,
+    "division": "Silver IV",
+    "name": "Catony Kong"
+  },
+  {
+    "macro": 10,
+    "pool": 10,
+    "micro": 10,
+    "division": "Challenger",
+    "name": "NR Gonka"
+  },
+  {
+    "macro": 6,
+    "pool": 7,
+    "micro": 4,
+    "division": "Gold I",
+    "name": "Pixeroth"
+  }
+]
